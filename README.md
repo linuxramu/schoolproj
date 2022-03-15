@@ -8,5 +8,3 @@ This project is to track attandance
 ```
 python main.py
 ```
-
-
